@@ -1,0 +1,26 @@
+#home {
+    background: darkturquoise;
+}
+
+
+.icon {
+    width: 15%;
+}
+
+.single-service a {
+    color: darkturquoise;
+    font-size: 1.5em;
+}
+
+.p1-gradient-color, .single-service a:hover, .footer-social a:hover i, .single-footer-widget .bb-btn {
+    color: #222222;
+    -webkit-text-fill-color: #222222;
+  }
+  
+
+.skillbar-bar {
+    background: -moz-linear-gradient(0deg, #00CED1 0%, #8490ff 100%);
+    background: -webkit-linear-gradient(0deg, #00CED1 0%, #8490ff 100%);
+    background: -ms-linear-gradient(0deg, #00CED1 0%, #8490ff 100%);
+
+}
