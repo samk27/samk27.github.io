@@ -33,9 +33,6 @@
     background: darkturquoise !important;
 }
 
-#icon {
-    color: #00CED1;
-}
 
 
 .p1-gradient-color, .single-service a:hover, .footer-social a:hover i, .single-footer-widget .bb-btn {
@@ -54,7 +51,7 @@
 
 }
 
-.img-fluid {
+/*.img-fluid {
     border: solid $b rgba(#000, .2);
   height: 50vmin;
   max-width: 13em;
@@ -62,5 +59,20 @@
   background: url(../Content/ProfileFinal.jpg) 50%/ cover 
                 border-box /* background-origin */
                 padding-box /* background-clip */;
-    
+     
+}*/
+
+ a {
+    color: #777777;
 }
+
+
+#form-messages {
+    text-align: center;
+    font-weight: 900;
+}
+
+.footer-text a, .footer-text i {
+    color: darkturquoise;
+}
+ 
