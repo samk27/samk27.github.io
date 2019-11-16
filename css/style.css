@@ -51,21 +51,14 @@
 
 }
 
-/*.img-fluid {
-    border: solid $b rgba(#000, .2);
-  height: 50vmin;
-  max-width: 13em;
-  max-height: 7em;
-  background: url(../Content/ProfileFinal.jpg) 50%/ cover 
-                border-box /* background-origin */
-                padding-box /* background-clip */;
-     
-}*/
-
- a {
-    color: #777777;
+a {
+    color: darkturquoise;
+    font-weight: 900;
 }
 
+a: hover {
+    color: #777777;
+}
 
 #form-messages {
     text-align: center;
@@ -76,3 +69,6 @@
     color: darkturquoise;
 }
  
+.col-lg-6 {
+    padding-bottom: 50px;
+}
